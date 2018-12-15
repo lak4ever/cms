@@ -1,0 +1,17 @@
+image update eke case ekak have aniwa hadapn eka eka nisaa post update wenet naa
+post add karna eke post status ekata draft publish kiyna eka nm hariyata haduwaa use add karadi user_roles hadana wge hadalaa
+et back end admin side eken post edit eke post status change karanma eka data base insert wenen na effect wenen naaa awulk have 
+
+post ekak delte karama ekata adala query delte wena hadana oni isarata karaida nada dane na nati unot mn karna oni taniyen hari
+==========================================================================================================================================
+START OF UNIT 6 LOGIN
+------------------------
+7.1 one eke page eka witri gathe sesion eken data enwda kiyla confirm kara errors godak witrii 7.1 last tibe mkda query nothibuna nisa e nisaaa 
+7.2 query use karla erros fix kara session wlain get method use nokara.
+
+START OF UNIT 10 extra features
+------------------------
+post edit page draft and publish on off switch button not like category we dont want select data dynaimically
+ we need just static value like on off button.
+
+add update nortification button to edit post and view that post in front page but layout problem ekak hve ekak hari
